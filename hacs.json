@@ -2,6 +2,6 @@
   "name": "Default Config Disabler",
   "homeassistant": "2024.5.0",
   "render_readme": true,
-  "zip_release": true,
+  "zip_release": false,
   "filename": "default_config_disabler.zip"
 }
